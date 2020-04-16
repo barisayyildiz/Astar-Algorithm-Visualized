@@ -5,6 +5,7 @@ I used tkinter for user input. Coordinates should be separated by comma.
 
 <img src = "screenshot_user_input.png">
 
-User is able to draw obstacles. And by pressing space button, A* algorithm will be executed.
+User is able to draw obstacles. <br>
+Press space button to execute A* Algorithm.
 
 <img src = "screenshot_board.png">
