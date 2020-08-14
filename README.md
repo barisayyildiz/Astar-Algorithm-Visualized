@@ -1,4 +1,11 @@
 # Astar-Algorithm-Visualized
+
+To install pygame:
+
+```
+pip install pygame
+```
+
 I visualized A* algorithm with pygame.
 
 I used tkinter for user input. Coordinates should be separated by comma.
