@@ -107,13 +107,14 @@ def gameLoop():
 
 
 	#------GRID CONSTANTS
-	WIDTH = 30
-	HEIGHT = 30
-	AMOUNT = 30
+	WIDTH = 25
+	HEIGHT = 25
+	AMOUNTX = 70
+	AMOUNTY = 35
 	MARGIN = 1
 	
 	#separate by comma
-	board = Board(AMOUNT,AMOUNT)
+	board = Board(AMOUNTX,AMOUNTY)
 
 
 	board.adjust(start, "start")
@@ -132,7 +133,7 @@ def gameLoop():
 	clock = pygame.time.Clock()
 
 
-	screen = pygame.display.set_mode((WIDTH * AMOUNT + (AMOUNT + 1) * MARGIN, HEIGHT * AMOUNT + (AMOUNT + 1) * MARGIN))
+	screen = pygame.display.set_mode((WIDTH * AMOUNTX + (AMOUNTX + 1) * MARGIN, HEIGHT * AMOUNTY + (AMOUNTY + 1) * MARGIN))
 
 	counter = 0
 	execute = False
@@ -248,8 +249,8 @@ def gameLoop():
 
 
 		color = white
-		for row in range(AMOUNT):
-			for column in range(AMOUNT):
+		for row in range(AMOUNTY):
+			for column in range(AMOUNTX):
 				color = white
 
 				if board.grid[column][row] == 1:
