@@ -17,4 +17,4 @@ Press space button to execute A* Algorithm.
 
 <img src = "screenshot_board.png">
 
-[](https://media.giphy.com/media/ln24DyMxJptmmoXObM/source.gif)
+["Gif"](https://media.giphy.com/media/ln24DyMxJptmmoXObM/source.gif)
