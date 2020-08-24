@@ -17,4 +17,4 @@ Press space button to execute A* Algorithm.
 
 <img src = "screenshot_board.png">
 
-<iframe src="https://giphy.com/embed/UrKA5imzmTxKnoWxD0" width="480" height="478" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/UrKA5imzmTxKnoWxD0">via GIPHY</a></p>
+[](https://media.giphy.com/media/ln24DyMxJptmmoXObM/source.gif)
