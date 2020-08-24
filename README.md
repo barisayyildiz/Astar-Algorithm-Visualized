@@ -16,3 +16,5 @@ User is able to draw obstacles. <br>
 Press space button to execute A* Algorithm.
 
 <img src = "screenshot_board.png">
+
+![Uploading ezgif.com-gif-maker.gif…]()
