@@ -17,4 +17,4 @@ Press space button to execute A* Algorithm.
 
 <img src = "screenshot_board.png">
 
-![](astar.gif)
+![](astar.gif | width = 300)
