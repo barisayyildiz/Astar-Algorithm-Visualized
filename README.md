@@ -15,7 +15,7 @@ I used tkinter for user input. Coordinates should be separated by comma.
 User is able to draw obstacles. <br>
 Press space button to execute A* Algorithm.
 
-<img src="astar.gif" width="600"/>
+<img src="astar.gif" width="750"/>
 
 <img src = "screenshot_board.png" width="1000">
 <br><br>
