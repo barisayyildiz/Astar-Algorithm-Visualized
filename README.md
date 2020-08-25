@@ -18,4 +18,4 @@ Press space button to execute A* Algorithm.
 <img src = "screenshot_board.png" width="1000">
 <br><br>
 
-<img src="astar.gif" width="1000" height="500"/>
+<img src="astar_gif.gif" width="1000" height="500"/>
